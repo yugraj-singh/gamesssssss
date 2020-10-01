@@ -1,2 +1,2 @@
-# gamesssssss
-snake game
+# gamess
+ beautiful snake game
